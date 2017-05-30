@@ -1,7 +1,6 @@
 // 2 dimensional array
 
 var Dogs = ["German Shepard", "Great Dane"];
-
 var Cats = ["Tabby", "Calico"];
 
 var Animals = [
